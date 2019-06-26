@@ -16,7 +16,7 @@ script:
     #- ./bin/phpunit
 notifications:
     email:
-        - TRAINER@wildcodeschool.fr
+        - TRAINERfrederic.bentz@gmail.com
         - STUDENT_MAIL
 branches:
     only:
